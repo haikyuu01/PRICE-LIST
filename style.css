@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  font-family: sans-serif;
+}
+.pricelist {
+  text-align: center;
+  color: gray;
+}
+.cheap-price {
+  color: gray;
+  text-align: center;
+  margin-top: -10px;
+}
+.simple-plan {
+  color: gray;
+  text-decoration: underline;
+}
+center {
+  border: solid;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+.medium-plan {
+  color: gray;
+  text-decoration: underline;
+}
+.high-plan {
+  color: gray;
+  text-decoration: underline;
+}
